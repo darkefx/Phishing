@@ -69,6 +69,6 @@ python pyphisher.py
 
     ALL DONE USE PYPHISHER
 
-
+Its better if you use local link not cloudflare.
 
 
