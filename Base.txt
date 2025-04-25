@@ -1,0 +1,74 @@
+1. update kali
+sudo apt update && sudo apt upgrade -y
+
+2. install requirements
+sudo apt install git python3-pip python3-dev python3-setuptools -y
+
+3. clone the pyphisher
+git clone https://github.com/KasRoudra2/PyPhisher.git
+
+4.install python dependicies
+ls
+cd PyPhisher
+pip install -r requirements.txt (if not installed then create virtual environment)
+      sudo apt install python3-venv
+      python3 -m venv pyphisher-venv
+      source pyphisher-venv/bin/activate
+now run   pip install -r requirements.txt
+
+if still not getting the add manually.
+       pip install requests Flask termcolor
+
+5. run PYPHISHER
+python pyphisher.py
+
+got error regarding zip file? (cloudflare/loclx/zip)
+
+  MANUAL FIXATION
+ i) (bin folder to place binary files)  
+mkdir ~/PyPhisher/bin  
+  cd ~/PyPhisher/bin
+ ii) download cloudflare
+wget -O cloudflared https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64
+chmod +x cloudflared
+ iii) download loclx
+wget -O loclx.zip https://api.localxpose.io/api/v2/downloads/loclx-linux-amd64.zip
+  then extract binary
+unzip loclx.zip
+ iv) make binary executable
+chmod +x loclx
+ v) move it to main pyphisher
+mv loclx ~/PyPhisher/
+ now run pyphisher.
+cd PyPhisher
+source pyphisher-venv/bin/activate
+python pyphisher.py
+
+     (Still getting error regarding zip?)
+ i)download template zip
+wget -O websites.zip https://github.com/KasRoudra/PyPhisher/releases/download/v2.6.0/websites.zip
+ ii)unzip
+
+
+           Try Gitlab
+1.clone
+git clone https://gitlab.com/KasRoudra/PyPhisher.git PyPhisher_new
+cd PyPhisher_new
+2.set virt. environment
+python3 -m venv pyphisher-venv
+source pyphisher-venv/bin/activate
+3.install req.
+cd files
+pip install -r requirements.txt
+cd ..
+4.RUN
+python pyphisher.py
+    Done.
+{For auth token go to https://localxpose.io/
+ sign up->access->copy token->paste in termainal}
+
+    ALL DONE USE PYPHISHER
+
+
+
+
