@@ -1,4 +1,4 @@
-# Phishing
+# Phishing  (model credits: kasroudra) ( Modified and ready by kool_efx)
 Phishing For Kali VM
 Requirements:
 Only share link when victim is online / ready to response.
