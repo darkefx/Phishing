@@ -2,6 +2,7 @@
 
 > 🧠 Based on original model by [kasroudra](https://github.com/KasRoudra)  
 > 🛠️ Modified, Enhanced, and Packaged for Kali Linux by **kool_efx**
+
 > 🧑‍💻 Crafted & Enhanced by kool_efx
 ---
 
@@ -39,7 +40,7 @@ Select a site based on your victim’s interest.
 
 You’ll get a phishing link via Cloudflare or Serveo (choose one).
 
-🎭 Social Engineering Strategy (Key to Success)
+## 🎭 Social Engineering Strategy (Key to Success)
 🧠 The real power of PyPhisher is not just the tool — it’s YOU.
 
 Only send the link when your victim is online.
@@ -59,16 +60,18 @@ A surprise, game, or exclusive content.
 Kali can’t seduce — you can 😉
 Good luck, hacker-in-training.
 
-🧾 Disclaimer
+## 🧾 Disclaimer
+
 🔐 This tool is intended for ethical testing, educational research, and cybersecurity awareness only.
 ❌ Unauthorized or malicious use is strongly discouraged.
 ⚠️ You are solely responsible for your actions.
 
 Copy that link and prepare your story.
-Setting up
+
+ ## Setting up
 ![image](https://github.com/user-attachments/assets/85a19484-ba9a-4a93-9ed0-8081a550b714)
-started
+## started
 ![image](https://github.com/user-attachments/assets/8d46d60f-1f70-400d-9e54-0dd76f8d3bf6)
 
-TEST
+## TEST
 ![image](https://github.com/user-attachments/assets/cdb5166a-8032-44d3-8e2b-de51f84073ba)
