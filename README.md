@@ -1,9 +1,9 @@
-# 🎣 PyPhisher - Advanced Phishing Toolkit (Ready-to-Use by kool_efx)
+# 🎣 PyPhisher - Advanced Phishing Toolkit (Ready-to-Use by dark_efx)
 
 > 🧠 Based on original model by [kasroudra](https://github.com/KasRoudra)  
 > 🛠️ Modified, Enhanced, and Packaged for Kali Linux by **kool_efx**
 
-> 🧑‍💻 Crafted & Enhanced by kool_efx
+> 🧑‍💻 Crafted & Enhanced by dark_efx
 ---
 
 ## 💻 Platform
